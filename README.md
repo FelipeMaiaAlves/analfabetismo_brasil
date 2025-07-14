@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Illiteracy in Brazil - Data Analysis and Dashboard
 
 ## Project Overview
