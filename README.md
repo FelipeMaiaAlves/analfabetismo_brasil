@@ -1,4 +1,4 @@
-=======
+
 # 📊 Análise do Analfabetismo no Brasil (2016–2024)
 
 ## 🔎 Descrição
